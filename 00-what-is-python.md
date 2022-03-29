@@ -88,5 +88,6 @@ Pythonはオブジェクト指向をメインとしたプログラミングス�
 ## 参考文献
 [1] https://www.python.org/doc/essays/foreword/  
 [2] https://ja.wikipedia.org/wiki/%E3%82%B0%E3%82%A4%E3%83%89%E3%83%BB%E3%83%B4%E3%82%A1%E3%83%B3%E3%83%AD%E3%83%83%E3%82%B5%E3%83%A0  
-[3] https://www.python.org/doc/essays/cp4e/
+[3] https://www.python.org/doc/essays/cp4e/  
 [4] http://python-history.blogspot.com/2009/02/adding-support-for-user-defined-classes.html
+[5] https://qiita.com/raccy/items/5eb98b1058e50f07339b
