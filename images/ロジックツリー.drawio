@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-30T05:48:41.742Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Jihgh50BuNzoxXINEchD" version="24.6.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2024-06-30T06:20:23.648Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Ac2DV23CHkDy9uUT3S0P" version="24.6.4" type="github" pages="2">
   <diagram name="ページ1" id="ml-EufTLL1ciN_PFBO6o">
     <mxGraphModel dx="1890" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -367,10 +367,194 @@
     </mxGraphModel>
   </diagram>
   <diagram id="0WwvJrs027GcqySc1aH3" name="ページ2">
-    <mxGraphModel dx="2074" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="794" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nHIuxvMpabFnFk2LHizi-2" value="&lt;p&gt;以下の情報から、「AさんをX事業部からP 事業部に異動させるべきか？」と言うイシューに答えるピラミッドストラクチャーを作成してください。&lt;/p&gt;&lt;ul&gt;&lt;li&gt;X事業部では大きな売り上げが見込める画期的な新製品Xを来年市場投入予定だ&lt;/li&gt;&lt;li&gt;X事業部の業績は現在好調である&lt;/li&gt;&lt;li&gt;X事業部では、環境の変化から数年後には大きな方向転換が必要である&lt;/li&gt;&lt;li&gt;X事業部のAさんを除く営業担当者は、営業の基本はできているが最近伸び悩み気味である&lt;/li&gt;&lt;/ul&gt;&lt;ul&gt;&lt;li&gt;P事業部とX事業部では、扱っている商品・顧客層・競合状況などが大きく異なる&lt;/li&gt;&lt;li&gt;P事業部は目新しい新商品がなく、広告予算も限られている&lt;/li&gt;&lt;li&gt;P事業部は新興の競合に押され近年業績の落ち込みが欲しい&lt;/li&gt;&lt;li&gt;Aさんはこの10年間、すっとX事業部で働いてきた&lt;/li&gt;&lt;li&gt;人事部からは、「Aさんは将来の経営幹部として育てたい」と言われている&lt;/li&gt;&lt;li&gt;Aさんの営業成績は事業部トップで、その営業手腕は全社的にも評判が高い&lt;/li&gt;&lt;br&gt;&lt;/ul&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="560" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-3" value="&lt;span style=&quot;text-align: left;&quot;&gt;AさんをX事業部からP 事業部に異動させるべきか？&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-4" value="Aさんは、会社としてP事業部の仕事をするべきか" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-5" value="Aさんのキャリアプランはなにか" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-7" value="X事業部Aさんがいなくても成り立つか" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-8" target="nHIuxvMpabFnFk2LHizi-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-8" value="X事業部の将来の業績はどうか" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-9" target="nHIuxvMpabFnFk2LHizi-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-9" value="X事業部の社員の実力はどうか" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-10" value="Aさん自身は？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-13" value="他の部署はどうか？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-14" target="nHIuxvMpabFnFk2LHizi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-14" value="伸び悩んでいる" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-15" value="X事業部の実力向上を担える、Aさん以外の社員はいるか？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-48" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-17" target="nHIuxvMpabFnFk2LHizi-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-17" value="大きな売上が見込める商品がある" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-20" value="会社としては将来の経営幹部として育てたい" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-21" value="Aさんの実力はどうか" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-22" value="事業部トップ" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-24" value="P事業部のしごとは任せられそうか？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="440" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-25" value="P事業部の課題はなにか" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-26" value="Aさんがいなくても売上をあげられそうなのか？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="800" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-27" value="業績が落ち込んでいる" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-28" value="P事業部の課題を解決する必要があるか？" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-4" target="nHIuxvMpabFnFk2LHizi-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="630" y="520" as="sourcePoint" />
+            <mxPoint x="680" y="470" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-4" target="nHIuxvMpabFnFk2LHizi-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="530" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="360" />
+              <mxPoint x="480" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-4" target="nHIuxvMpabFnFk2LHizi-25">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="530" y="490" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="360" />
+              <mxPoint x="480" y="600" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-4" target="nHIuxvMpabFnFk2LHizi-13">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="530" y="610" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="360" />
+              <mxPoint x="480" y="720" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-34" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-7" target="nHIuxvMpabFnFk2LHizi-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="530" y="730" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-35" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-7" target="nHIuxvMpabFnFk2LHizi-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="850" as="sourcePoint" />
+            <mxPoint x="530" y="850" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="480" y="840" />
+              <mxPoint x="480" y="960" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-36" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-3" target="nHIuxvMpabFnFk2LHizi-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="450" y="370" as="sourcePoint" />
+            <mxPoint x="530" y="730" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-3" target="nHIuxvMpabFnFk2LHizi-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="370" as="sourcePoint" />
+            <mxPoint x="290" y="370" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="240" y="360" />
+              <mxPoint x="240" y="840" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-5" target="nHIuxvMpabFnFk2LHizi-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="290" as="sourcePoint" />
+            <mxPoint x="530" y="730" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-39" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-20" target="nHIuxvMpabFnFk2LHizi-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="370" as="sourcePoint" />
+            <mxPoint x="740" y="370" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-21" target="nHIuxvMpabFnFk2LHizi-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="880" y="370" as="sourcePoint" />
+            <mxPoint x="930" y="370" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-41" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-22" target="nHIuxvMpabFnFk2LHizi-24">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="490" as="sourcePoint" />
+            <mxPoint x="740" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-43" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-25" target="nHIuxvMpabFnFk2LHizi-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="490" as="sourcePoint" />
+            <mxPoint x="740" y="490" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nHIuxvMpabFnFk2LHizi-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nHIuxvMpabFnFk2LHizi-27" target="nHIuxvMpabFnFk2LHizi-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="690" y="610" as="sourcePoint" />
+            <mxPoint x="740" y="610" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
