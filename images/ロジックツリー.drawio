@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-16T09:38:58.700Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="rKJDT4qaePW-5KitJ5E4" version="24.5.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-30T05:48:41.742Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Jihgh50BuNzoxXINEchD" version="24.6.4" type="github" pages="2">
   <diagram name="ページ1" id="ml-EufTLL1ciN_PFBO6o">
     <mxGraphModel dx="1890" dy="1247" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -363,6 +363,14 @@
         <mxCell id="yZ8EO3ioNIBK66teOyiP-92" value="アウトプット" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#007FFF;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="1400" y="200" width="90" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="0WwvJrs027GcqySc1aH3" name="ページ2">
+    <mxGraphModel dx="2074" dy="1114" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
       </root>
     </mxGraphModel>
   </diagram>
